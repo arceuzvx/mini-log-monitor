@@ -1,0 +1,21 @@
+Date: 09/27/2025 08:12:01 AM - Event: Login success - User: Alice
+Date: 09/27/2025 08:15:32 AM - Event: Failed login attempt - User: Bob
+Date: 09/27/2025 08:16:45 AM - Event: Failed login attempt - User: Carol
+Date: 09/27/2025 08:20:12 AM - Event: File accessed - User: Alice
+Date: 09/27/2025 08:22:55 AM - Event: Failed login attempt - User: Dave
+Date: 09/27/2025 08:25:01 AM - Event: Login success - User: Eve
+Date: 09/27/2025 08:30:10 AM - Event: Password change - User: Alice
+Date: 09/27/2025 08:32:18 AM - Event: Failed login attempt - User: Frank
+Date: 09/27/2025 08:35:44 AM - Event: File deleted - User: Bob
+Date: 09/27/2025 08:37:50 AM - Event: Failed login attempt - User: Grace
+Date: 09/27/2025 08:40:12 AM - Event: Login success - User: Carol
+Date: 09/27/2025 08:42:30 AM - Event: Failed login attempt - User: Bob
+Date: 09/27/2025 08:45:05 AM - Event: Failed login attempt - User: Heidi
+Date: 09/27/2025 08:48:22 AM - Event: File accessed - User: Dave
+Date: 09/27/2025 08:50:10 AM - Event: Failed login attempt - User: Ivan
+Date: 09/27/2025 08:52:33 AM - Event: Login success - User: Frank
+Date: 09/27/2025 08:55:11 AM - Event: Failed login attempt - User: Judy
+Date: 09/27/2025 08:57:44 AM - Event: Failed login attempt - User: Carol
+Date: 09/27/2025 09:00:02 AM - Event: File deleted - User: Alice
+Date: 09/27/2025 09:02:18 AM - Event: Failed login attempt - User: Bob
+Date: 09/27/2025 09:05:30 AM - Event: Login success - User: Dave
