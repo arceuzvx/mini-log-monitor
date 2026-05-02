@@ -1,0 +1,11 @@
+version: "3.8"
+services:
+  log-monitor:
+    build: .
+    environment:
+      - SLACK_WEBHOOK=${SLACK_WEBHOOK}
+      - LOG_FILE=/logs/app.log
+      - ALERT_THRESHOLD=3
+    volumes:
+      - ./logs:/logs   # mount a local ./logs folder into the container
+    restart: unless-stopped
