@@ -5,7 +5,7 @@ services:
     environment:
       - SLACK_WEBHOOK=${SLACK_WEBHOOK}
       - LOG_FILE=/logs/app.log
-      - ALERT_THRESHOLD=3
+      - COOLDOWN_SECONDS=30
     volumes:
-      - ./logs:/logs   # mount a local ./logs folder into the container
+      - ./logs:/logs
     restart: unless-stopped
