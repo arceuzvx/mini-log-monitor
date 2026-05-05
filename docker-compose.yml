@@ -7,4 +7,5 @@ services:
       - COOLDOWN_SECONDS=30
     volumes:
       - ./logs:/logs
+      - ./logalert.py:/app/logalert.py
     restart: unless-stopped
