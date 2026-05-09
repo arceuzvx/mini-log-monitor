@@ -65,6 +65,7 @@ Slack
 ---
 
 ## Project Structure
+```bash
 mini-log-monitor/
 │
 ├── logs/
@@ -79,7 +80,7 @@ mini-log-monitor/
 ├── .env
 ├── .gitignore
 └── setup.md
-
+```
 ---
 
 ## Configuration
